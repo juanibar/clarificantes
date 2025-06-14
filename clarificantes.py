@@ -44,7 +44,7 @@ clarificante_data = {
         ),
     },
     "Carbón activado": {
-        "range": (0.024, 0.06),  # g/L
+        "range": (0.1, 0.6),  # g/L
         "unit": "g/L",
         "procedure": (
             "Preparar suspensión al 5 % en agua, añadir 0,024‑0,06 g/L con agitación y mantener 2‑4 h; filtrar con placas de carbón o tierra diatomea."
